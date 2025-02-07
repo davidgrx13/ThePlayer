@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Player</string>
+
+    <!-- Home -->
+    <string name="library">Library</string>
+    <string name="audio_file">Audio file</string>
+    <string name="duration_format">%d:%02d min</string>
+
+    <string name="permission_required">You must provide permissions to access media files</string>
+</resources>
